@@ -1,0 +1,9 @@
+{
+  "manifest_version": 2,
+  "name": "Mesosphere Room Layout Map",
+  "version": "1.0",
+  "description": "map",
+  "chrome_url_overrides": {
+		"newtab": "newTab.xhtml"
+  }
+}
